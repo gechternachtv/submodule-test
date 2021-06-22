@@ -1,6 +1,3 @@
-[submodule "room"]
-	path = room
-	url = ./room
 [submodule "room-submodule"]
 	path = room-submodule
 	url = https://github.com/gechternachtv/room-submodule.git
